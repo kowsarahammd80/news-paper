@@ -1,0 +1,49 @@
+.paper-img-set{
+   width: 10vw;
+}
+
+.headinLeft-imgSet-div{
+   width: 100%;
+   height: 45vh;
+}
+
+.paper-name-heading{
+   width: 100%;
+   height: 20vh;
+}
+
+.img-hover-set:hover{
+  border: 1px solid green;
+  cursor: pointer;
+}
+
+.paper-headline-rightSide-imgs-div{
+   width: 100%;
+   height: 25vh;
+}
+
+.paper-headline-rightSide-imgs{
+   width: 100%;
+   height: 100%;
+}
+
+.underLIne{
+   width: 100%;
+   border: 2px solid gray;
+}
+
+.second-grid-left-img-div{
+  width: 100%;
+  height: 60vh;
+}
+
+.second-left-side-img-div{
+   width: 100%;
+   height: 30vh;
+}
+
+.theard-section-img-div{
+  width: 100%;
+  height: 35vh;
+}
+

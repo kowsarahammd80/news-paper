@@ -1,0 +1,15 @@
+.border-set{
+    border-radius: 3px;
+    /* border: 1px solid gray; */
+}
+
+.onlie-text{
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 0px 8px 8px 0;
+    color: white;
+}
+
+.nav-logo-div{
+    width: 30vw;
+}
